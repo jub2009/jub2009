@@ -3,9 +3,9 @@
 #### EN:
 Hi everyone, I’m Jimmy, a high school senior who is finally allowing his creativity to speak for itself. I love Japan and its culture; I love tech; I love football (⚽️), and I absolutely love broadening my horizons. I want to be an electrical engineer, and I hope to be based in Japan. This is my GitHub, and I hope you enjoy getting a look at my work firsthand. Every single repository here was worked on with my heart and soul, so I hope you all enjoy it as much as I do.
 
-ES:
+#### ES:
 
-FR:
+#### FR:
 
 
 <!--
