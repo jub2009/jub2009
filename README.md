@@ -6,7 +6,7 @@ Hi everyone, I’m Jimmy, a high school senior who is finally allowing his creat
 #### ES:
 
 #### FR:
-
+Bonjour tous les mondes, je suis Jimmy
 
 <!--
 **jub2009/jub2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
