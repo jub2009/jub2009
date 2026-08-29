@@ -19,7 +19,7 @@ Bonjour tous les mondes, je suis Jimmy
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,godot,python,js,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,godot,python,js" />
   </a>
 </p>
 
