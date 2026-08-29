@@ -1,5 +1,7 @@
 ## ![👋 Welcome! |👋 Bienvenido! |👋 Bienvenue!](jub2009hi.png)
 
+
+
 <details>
 <summary><b>🇦🇺 | EN: </b></summary>
 Hi everyone, I’m Jimmy, a high school senior who is finally allowing his creativity to speak for itself. I love Japan and its culture; I love tech; I love football (⚽️), and I absolutely love broadening my horizons. I want to be an electrical engineer, and I hope to be based in Japan. This is my GitHub, and I hope you enjoy getting a look at my work firsthand. Every single repository here was worked on with my heart and soul, so I hope you all enjoy it as much as I do.
@@ -23,11 +25,27 @@ Bonjour tous les mondes, je suis Jimmy
   </a>
 </p>
 
-### Programming Languages:
+### Most Used Software:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,godot,python,js,linux" />
+    <img src="https://skillicons.dev/icons?i=notion,vscode,obsidian,netlify,github,cloudflare," />
+  </a>
+</p>
+
+### Current OS:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+</p>
+
+### Honorable Mention:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 </p>
 
