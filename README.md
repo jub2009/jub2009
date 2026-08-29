@@ -15,13 +15,25 @@ Hola a todos, soy Jimmy, un estudiante en su último año de secundaria que fina
 Bonjour tous les mondes, je suis Jimmy
 </details>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,godot,python,js,linux)](https://skillicons.dev)
+### Programming Languages:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,godot,python,js,linux" />
+  </a>
+</p>
 
+### Programming Languages:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,godot,python,js,linux" />
+  </a>
+</p>
 
-
-
+<p align="center">
+  <img src="kingkazumiura.GIF" width="800"/>
+</p>
 
 
 <!--
