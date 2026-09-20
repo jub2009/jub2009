@@ -9,13 +9,10 @@ Hi everyone, I’m Jimmy, a high school senior who is finally allowing his creat
 
 <details>
 <summary><b>🇪🇸 | ES: </b></summary>
-Hola a todos, soy Jimmy, un estudiante en su último año de secundaria que finalmente deja que su creatividad hable por él mismo. Me encanta Japón y su cultura; me encanta tech; me encanta futbol; y sí que me encanta
+Hola a todos, soy Jimmy, un estudiante en su último año de secundaria que finalmente deja que su creatividad hable por él mismo. Me encanta Japón y su cultura; me encanta tech; me encanta futbol; y sí que me encanta expandir mi mente. Quiero ser un ingeniero eléctrico y en Japón. Esto es mi GitHub y deseo que ustedes disfruten de ver mi trabajo. Cada repositorio aquí tiene parte de mi corazón y mi alma; deseo que ustedes disfruten tanto como yo.
 </details>
 
-<details>
-<summary><b>🇫🇷 | FR: </b></summary>
-Bonjour tous les mondes, je suis Jimmy
-</details>
+<!-- <details> <summary><b>🇫🇷 | FR: </b></summary> Bonjour tous les mondes, je suis Jimmy </details> -->
 
 ### Programming Languages:
 
